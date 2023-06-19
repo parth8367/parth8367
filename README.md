@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1 align="center">Hi 👋, I'm PARTH SORATHIYA</h1>
 
 <!--
 **parth8367/parth8367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
