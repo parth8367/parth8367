@@ -1,5 +1,5 @@
-##### <h1 align="center">Hi 👋, I'm PARTH SORATHIYA</h1>
-<h3 align="center">Data Analyst | Upskilling in Data Science & Machine Learning</h3>
+###### <h1 align="center">Hi 👋, I'm PARTH SORATHIYA</h1>
+######## <h3 align="center">Data Analyst | Upskilling in Data Science & Machine Learning</h3>
 
 <!--
 **parth8367/parth8367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
