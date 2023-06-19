@@ -1,4 +1,4 @@
-#### <h1 align="center">Hi 👋, I'm PARTH SORATHIYA</h1>
+##### <h1 align="center">Hi 👋, I'm PARTH SORATHIYA</h1>
 <h3 align="center">Data Analyst | Upskilling in Data Science & Machine Learning</h3>
 
 <!--
